@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\bin\Debug\net6.0-windows\kvadrati.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\bin\Debug\net6.0-windows\kvadrati.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\bin\Debug\net6.0-windows\kvadrati.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\bin\Debug\net6.0-windows\kvadrati.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\bin\Debug\net6.0-windows\kvadrati.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\refint\kvadrati.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\kvadrati.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\predavanje1\kvadrati\obj\Debug\net6.0-windows\ref\kvadrati.dll

@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\bin\Debug\net6.0-windows\krug_domaci1.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\bin\Debug\net6.0-windows\krug_domaci1.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\bin\Debug\net6.0-windows\krug_domaci1.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\bin\Debug\net6.0-windows\krug_domaci1.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\bin\Debug\net6.0-windows\krug_domaci1.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\refint\krug_domaci1.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\krug_domaci1.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\krug_domaci1\obj\Debug\net6.0-windows\ref\krug_domaci1.dll

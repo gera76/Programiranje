@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\bin\Debug\net6.0-windows\pomeranje_tacaka.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\bin\Debug\net6.0-windows\pomeranje_tacaka.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\bin\Debug\net6.0-windows\pomeranje_tacaka.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\bin\Debug\net6.0-windows\pomeranje_tacaka.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\bin\Debug\net6.0-windows\pomeranje_tacaka.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\refint\pomeranje_tacaka.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\pomeranje_tacaka.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pomeranje_tacaka\obj\Debug\net6.0-windows\ref\pomeranje_tacaka.dll

@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\bin\Debug\net6.0-windows\linija.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\bin\Debug\net6.0-windows\linija.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\bin\Debug\net6.0-windows\linija.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\bin\Debug\net6.0-windows\linija.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\bin\Debug\net6.0-windows\linija.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\refint\linija.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\linija.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\linija\obj\Debug\net6.0-windows\ref\linija.dll

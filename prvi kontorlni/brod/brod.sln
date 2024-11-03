@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brod", "brod.csproj", "{30729A41-A192-40B8-B001-D437A27CE6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30729A41-A192-40B8-B001-D437A27CE6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30729A41-A192-40B8-B001-D437A27CE6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30729A41-A192-40B8-B001-D437A27CE6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30729A41-A192-40B8-B001-D437A27CE6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCAF137-4843-4E6F-8612-428A56A408FB}
+	EndGlobalSection
+EndGlobal

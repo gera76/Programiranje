@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\bin\Debug\net6.0-windows\domacibrod.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\bin\Debug\net6.0-windows\domacibrod.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\bin\Debug\net6.0-windows\domacibrod.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\bin\Debug\net6.0-windows\domacibrod.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\bin\Debug\net6.0-windows\domacibrod.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\refint\domacibrod.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\domacibrod.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\domacibrod\obj\Debug\net6.0-windows\ref\domacibrod.dll

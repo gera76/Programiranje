@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\bin\Debug\net6.0-windows\veci_manji_krug.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\bin\Debug\net6.0-windows\veci_manji_krug.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\bin\Debug\net6.0-windows\veci_manji_krug.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\bin\Debug\net6.0-windows\veci_manji_krug.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\bin\Debug\net6.0-windows\veci_manji_krug.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\refint\veci_manji_krug.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\veci_manji_krug.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\veci_manji_krug\obj\Debug\net6.0-windows\ref\veci_manji_krug.dll

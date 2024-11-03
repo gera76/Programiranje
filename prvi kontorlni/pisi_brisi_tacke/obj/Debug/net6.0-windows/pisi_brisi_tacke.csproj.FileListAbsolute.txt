@@ -1,0 +1,17 @@
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\bin\Debug\net6.0-windows\pisi_brisi_tacke.exe
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\bin\Debug\net6.0-windows\pisi_brisi_tacke.deps.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\bin\Debug\net6.0-windows\pisi_brisi_tacke.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\bin\Debug\net6.0-windows\pisi_brisi_tacke.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\bin\Debug\net6.0-windows\pisi_brisi_tacke.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.Form1.resources
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.csproj.GenerateResource.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\refint\pisi_brisi_tacke.dll
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.pdb
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\pisi_brisi_tacke.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\skola prezentacije rad\3 godina\prvo polugodiste\programiranje i programski jezici\prvi kontorlni\pisi_brisi_tacke\obj\Debug\net6.0-windows\ref\pisi_brisi_tacke.dll

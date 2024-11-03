@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pomeranje_tacaka/1.0.0": {
+        "runtime": {
+          "pomeranje_tacaka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pomeranje_tacaka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
